@@ -1,13 +1,10 @@
 ---
 permalink: /
-title: "Wesley Engelbrecht Academic Portfolio"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome!
-=
 
 Under construction.
