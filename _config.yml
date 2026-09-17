@@ -23,9 +23,9 @@ repository               : "wjengelbr/wjengelbr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5824.png"
   name             : "Wesley Engelbrecht"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "PhD Student, Mathematics"
   location         : "Binghamton, New York"
   employer         : "Binghamton University"
