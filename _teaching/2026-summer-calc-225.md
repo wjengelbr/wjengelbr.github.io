@@ -3,7 +3,7 @@ title: "Integral Calculus"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2026-summer-cal-225
-venue: "Binghamton University, Department of Mathematics"
+venue: "Binghamton University, Department of Mathematics and Statistics"
 date: 2026-07-07
 location: "Binghamton, New York"
 ---
