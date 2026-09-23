@@ -1,6 +1,7 @@
 ---
 title: "Elementary Statistics"
 collection: teaching
+permalink: /teaching/2025-fall-math-147
 type: "Undergraduate course"
 venue: "Binghamton University, Department of Mathematics and Statistics"
 date: 2025-08-19
