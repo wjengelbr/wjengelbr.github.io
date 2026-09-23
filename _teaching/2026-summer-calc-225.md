@@ -1,7 +1,7 @@
 ---
 title: "Integral Calculus"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2026-summer-cal-225
 venue: "Binghamton University, Department of Mathematics"
 date: 2026-07-07
