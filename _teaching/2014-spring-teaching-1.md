@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Elementary Statistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-fall-math-147
+venue: "Binghamton University, Department of Mathematics and Statistics"
+date: 2025-08-19
+location: "Binghamton, New York"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Students learned about the wide range of topics in statistics, including marginal and conditional distributions, probability, normal model, binoial model, geometric model, Poisson model, sampling, confidence intervals, and testing. Students attended lecture with Dr. Marie Chazal, and attended a weekly discussion section led by me. In discussion, we reviewed content from lecture and learned how to apply the concepts.
