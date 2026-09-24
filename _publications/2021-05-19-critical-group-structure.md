@@ -1,7 +1,7 @@
 ---
 title: "Critical group structure from the parameters of a strongly regular graph"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2021-05-19
 excerpt: 'We give simple arithmetic conditions that force the Sylow p-subgroup of the critical group of a strongly regular graph to take a specific form.'
 date: 2021-05-19
