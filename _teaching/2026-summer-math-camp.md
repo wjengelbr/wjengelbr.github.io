@@ -2,7 +2,7 @@
 title: "Math Camp"
 collection: teaching
 permalink: /teaching/2026-summer-math-camp
-type: "Middle school course"
+type: "Middle School Course"
 venue: "National Math Camps, Camp Conway"
 date: 2026-06-19
 location: "Claremont, California"
